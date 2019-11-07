@@ -20,7 +20,7 @@ echo "Failed Application accepted negative number"
 else
 echo "Passed. Application rejected negative number"
 fi
-
+echo "--------------------------------------------"
 if java Dec2Hex 3000
 then
 echo "Passed. Application accepted positive integer"
