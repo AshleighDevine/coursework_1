@@ -27,5 +27,5 @@ echo "Failed. Application accepted character - should be integer only"
 else
 echo "Passed. Application rejeceted character"
 fi
-
+echo "------"
 echo "End of Testing"
