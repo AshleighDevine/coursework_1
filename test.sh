@@ -12,3 +12,11 @@ echo "Test 4"
 java Dec2Hex 299
 
 echo "End of Testing"
+
+
+if  java Dec2Hex -5
+then
+echo "Failed Application accepted negative number"
+else
+echo "Passed. Application rejected negative number"
+fi
