@@ -32,7 +32,7 @@ class Dec2Hex
 
             {
 
-                System.err.println("Argument " + args[0] + " must be an integer.");
+                System.err.println("Argument :" + args[0] + "  must be an integer.");
 
                 System.exit(1);
 
